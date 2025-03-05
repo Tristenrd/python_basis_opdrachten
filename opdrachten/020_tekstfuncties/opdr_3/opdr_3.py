@@ -3,3 +3,12 @@
 # Groep:
 
 # Hier komt je code...
+
+mylist = ("*"
+         "***"
+        "*****"
+       "********"
+         "***"
+         "***"
+         "***")
+print(mylist )
