@@ -4,11 +4,15 @@
 
 # Hier komt je code...
 
-mylist = ("*"
-         "***"
-        "*****"
-       "********"
-         "***"
-         "***"
-         "***")
-print(mylist )
+mylist = (
+    "   *   ",
+    "  ***  ",
+    " ***** ",
+    "*******",
+    "  ***  ",
+    "  ***  ",
+    "  ***  "
+)
+
+for row in mylist:
+    print(row * 5)
