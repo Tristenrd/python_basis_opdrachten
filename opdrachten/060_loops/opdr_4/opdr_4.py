@@ -6,4 +6,7 @@
 
 # Hier start de for-loop
 
-my_list = []
+# Comprehensive list met formule y = 4x + 7 en range van 1 tot 10
+resultaten = [4 * x + 7 for x in range(1, 10)]
+
+print(resultaten)

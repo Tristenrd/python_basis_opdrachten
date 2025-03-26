@@ -6,4 +6,8 @@
 
 # Hier start de for-loop....
 
-my_list = []
+my_list = tovenaars = ['tita', 'merlin', 'hans klok']
+print(tovenaars)
+
+# output
+['tita', 'merlin', 'hans klok']
